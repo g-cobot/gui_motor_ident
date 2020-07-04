@@ -1,0 +1,15 @@
+{
+  "stopTest": "70.00",
+  "Start": "1.0",
+  "Stop": "1.0",
+  "Baudrate": "115200",
+  "Tsample": "0.09",
+  "Restart": "1.0",
+  "Num_Ensaio": "2.0",
+  "sent_rot": "1.0",
+  "Modelo_motor": "0.0",
+  "timeStep1": "5:00",
+  "Amp_Degrau": "8.0",
+  "timeStep2": "14.00",
+  "Exit": "1.0"
+}
